@@ -24,7 +24,6 @@ function getStudentGrade() {
     } else if (studentMark >= 60) {
       console.log("Grade: B");
     } else if (studentMark >= 50) {
-      90
       console.log("Grade: C");
     } else if (studentMark >= 40) {
       console.log("Grade: D");
