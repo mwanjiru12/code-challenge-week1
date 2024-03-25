@@ -1,0 +1,12 @@
+{
+  "name": "code-challenge-week1",
+  "version": "1.0.0",
+  "description": "#Student Grade Generator (Toy Problem) This program prompts the user to input student marks, and returns the corresponding grade based on the following criteria:",
+  "main": "gradeGenerator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
