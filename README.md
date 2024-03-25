@@ -35,10 +35,9 @@ To use Node.js, install the Node.js runtime and ensure that you have Node.js ver
 Author & License
 Author: Maria Wanjiru. 
 
-License: MIT License (https://github.com/mwanjiru12/code-challenge-week1/blob/main/LICENSELinks to an external site.")
+License:  Apache License (https://github.com/mwanjiru12/code-challenge-week1/blob/main/LICENSE.txt to an external site.")
 
-This project is released under the MIT License, which allows for commercial and non-commercial use, modification, and distribution without requiring attribution. For the full terms of the license, refer to the [LICENSE file] 
-(https://github.com/mwanjiru12/code-challenge-week1/blob/main/LICENSELinks to an external site.")
+This project is released under the  Apache License, which allows for commercial and non-commercial use, modification, and distribution without requiring attribution. For the full terms of the license, refer to the [LICENSE file] (https://github.com/mwanjiru12/code-challenge-week1/blob/main/LICENSE.txt to an external site.")
 
 Contact
 If you have any questions, comments, or concerns, please contact me at maria.wk447@gmail.com.
