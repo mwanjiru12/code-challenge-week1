@@ -2,10 +2,10 @@
 Student Grade Generator (Toy Problem)
 This program prompts the user to input student marks, and returns the corresponding grade based on the following criteria:
 
-A: greater than 79
-B: between 60 and 79 (inclusive)
-C: between 49 and 59 (inclusive)
-D: between 40 and 49 (inclusive)
+A: greater than 80
+B: between 60 and 79 
+C: between 50 and 59 
+D: between 40 and 49 
 E: less than 40
 To use the program, run the provided code in a JavaScript environment. A prompt will appear asking for the student's marks, between 0 and 100. The program will then return the corresponding grade as a letter.
 
