@@ -4,9 +4,9 @@ const rl = readline.createInterface({
   input: process.stdin,
   output: process.stdout,
 });
-
+//prompt user to enter their basic salary.
 rl.question("Enter Salary: ", (basicSalary) => {
-  // Declare the constants for the deductions.
+  // Declare the constants for the deductions calculations.
   const TAX_LIMIT = 24000;
   const TAX_RATE = 0.1;
   const NHIF_BASE = 5000;
@@ -16,13 +16,13 @@ rl.question("Enter Salary: ", (basicSalary) => {
   // Create a function to calculate the the netSalary salary
   let grossSalary = basicSalary;
 
-  // Calculate tax
+  // Calculate tax and rate
   let tax = 0;
   if (grossSalary > TAX_LIMIT) {
     tax = (grossSalary - TAX_LIMIT) * TAX_RATE;
-  } 
+  }
 
-  // Calculate NHIF deductions
+  // Calculate NHIF deductions 
   let nhifDeduction = 0;
   if (grossSalary <= NHIF_BASE) {
     nhifDeduction = NHIF_BASE * NHIF_RATE;
